@@ -1,0 +1,16 @@
+discord-notify
+catboost
+fqdn
+ipywidgets
+jupyterlab
+matplotlib
+numpy
+pandas
+plotly
+requests
+scikit-learn
+scipy
+sklearn
+tqdm
+xgboost
+yellowbrick
